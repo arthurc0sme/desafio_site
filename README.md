@@ -16,7 +16,3 @@ O desafio consiste na replicação de uma página web conforme as especificaçõ
 ### Notas Adicionais
 
 - Este projeto é uma simulação para fins educativos e de avaliação para seleção de estágio na SEMAD.
-
-### Imagem do Site Desenvolvido
-![Site desenvolvido](https://imgur.com/a/ZV2UFGI)
-
